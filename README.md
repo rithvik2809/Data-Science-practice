@@ -1,2 +1,1 @@
-# Data-Science-practice
-Contains a few of my sample projects 
+Here dataset provides a nutrition analysis of every menu item on the Bangalore's famous restaurant's menu, including breakfast, beef burgers, chicken etc. The project performs analysis of the nutrition content in each food items.
