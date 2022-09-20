@@ -1,1 +1,1 @@
-Here are a few of my data science projects
+Here is a dataset that provides a nutrition analysis of every menu item on  Bangalore's famous restaurant's menu, including breakfast, beef burgers, chicken etc. The project performs analysis of the nutrition content in each food items.
